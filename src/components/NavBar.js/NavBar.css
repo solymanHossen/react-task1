@@ -1,0 +1,12 @@
+.navbar{
+  background-color: rgb(232, 202, 202);
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+  padding: 20px;
+  color: rgb(246, 242, 242);
+
+}
+a{
+  text-decoration: none;
+}
